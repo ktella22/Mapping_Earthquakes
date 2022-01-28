@@ -6,5 +6,6 @@ The first screenshot shows the tatonic plate location on earth and the place whe
 <img width="1106" alt="Delivery_1" src="https://user-images.githubusercontent.com/92502292/151509491-9b0e06b9-3211-463d-89dd-2a62cbb81ec6.PNG">
 
 The screenshot included multiple title layer with different overlays can be see below: 
+
 <img width="1162" alt="Delivery_3" src="https://user-images.githubusercontent.com/92502292/151509893-db54fdbe-f746-4510-b269-f975b4736660.PNG">
    
